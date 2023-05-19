@@ -366,6 +366,44 @@ To ensure the best customer experience and proper maintenance of our campervans,
 Can I use the campervan for festivals or events?
 Absolutely! We highly recommend using our campervans for festivals and events. They provide a convenient and comfortable accommodation option, allowing you to fully immerse yourself in the festival experience. Just make sure to check with the festival organizers regarding any specific guidelines or restrictions for campervans. We encourage you to have a fantastic time and create unforgettable memories at your favorite festivals and events!
 
+Are there any specific cleaning guidelines I should follow if I choose to clean the camper myself?
+Yes, if you choose not to book our cleaning service for CHF 99, you will need to clean the vehicle yourself. It should be returned as clean as when you took it over. If the vehicle is not cleaned to a satisfactory standard, additional charges may apply.
+
+What are the specific conditions under which the deposit will not be returned?
+The deposit may not be returned if there is damage to the vehicle or if the vehicle is not cleaned well upon return.
+
+Are there any restrictions or guidelines for using the solar cell for charging devices?
+The solar cell provides as much electricity as the sun provides. In winter or when it's cloudy, there might not be enough electricity. However, there is a cable drum in the car to connect to outside power if needed.
+
+What should I do if the gas cartridge for the stove runs out during my trip?
+You can purchase replacement gas cartridges at any camping store in Europe. The model you need is the CP 250.
+
+How does the digital and contactless pick-up and drop-off process work?
+You will receive a link via email. Using this link, you will take pictures of the inside and outside of the car, then receive a pin code for the lock. Once you open the lock, you can retrieve the car key and drive off.
+
+What should I do if I have a problem during the digital pick-up process?
+If you encounter any issues during the digital pick-up process, please call the number provided on your rental contract.
+
+What are the specific dimensions of the Medium and Large vehicles?
+The Large vehicle measures 5340 mm in length, 1986 mm in width, 2272 mm in width including the outside mirrors, and 1979 mm in height. The Medium vehicle measures 4805 mm in length and 1942 mm in height.
+
+How environmentally friendly are the campers?
+Our campers are built with 95% re- and upcycled materials by work integration projects. They run on diesel with an average consumption.
+
+What are the specific benefits of the worry-free supplement?
+The worry-free supplement reduces the deductible to CHF 300.
+
+Are there any specific routes or locations you recommend for a camper trip in Switzerland?
+Yes, we can provide recommendations for secret locations. Please ask us for more information.
+
+How often are the campers serviced or checked for maintenance?
+Our campers are serviced and checked for maintenance regularly after every trip at our partner garages.
+
+What are the terms and conditions for the discounted rates for long-term rentals?
+We offer discounted rates for rentals of at least 4 weeks. Please contact us for more details.
+
+
+
 Trainingsdata Cheeky Campers Customer Bot (DE)
 
 Wie bin ich versichert bei Unfall oder Panne?
@@ -712,6 +750,8 @@ Du bringst das Fahrzeug vollgetankt mit Diesel zurück. Reinige es nach Vorgabe 
 
 Wieviele Personen passen in ein Auto?
 Wir empfehlen ein Medium Camper für zwei Personen und ein Large Camper für zwei Personen und ein Kleinking. Alle Fahrzeuge haben aber drei vollwertige Sitze, somit ist es euch überlassen auch mit 3 Personen zu fahren, was jedoch sehr kuschelig und eher eng ist. 
+
+
 
 
 
